@@ -1,5 +1,6 @@
 # USB Key RootKey(graber) by DTM
-Creator a folder named "dossier1"
+Create a folder named "dossier1"
+Move autorun.inf. to dossier1
 Launch launch.bat to grab key.
 
 ENJOY:)
